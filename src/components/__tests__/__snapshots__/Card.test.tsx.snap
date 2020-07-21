@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Card Component should render Loading without error 1`] = `
+<div
+  className="sc-bdVaJa kgqLdc"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+  >
+    <div
+      className="sc-bwzfXH fdVHAP"
+    >
+      <a
+        href="/game/People"
+        onClick={[Function]}
+      >
+        <div
+          className="sc-ifAKCX bZbatV"
+        >
+          People
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should render Loading without error 1`] = `
+<div
+  className="sc-bdVaJa kgqLdc"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+  >
+    <div
+      className="sc-bwzfXH fdVHAP"
+    >
+      <a
+        href="/game/People"
+        onClick={[Function]}
+      >
+        <div
+          className="sc-ifAKCX bZbatV"
+        >
+          People
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;

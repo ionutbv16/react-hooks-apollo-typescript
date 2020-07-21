@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test History Page should render History without error 1`] = `
+<div
+  className="sc-EHOje iafsfZ"
+>
+  <div
+    className="sc-bZQynM fymwvv"
+  >
+    History
+  </div>
+</div>
+`;
+
+exports[`should render History without error 1`] = `
+<div
+  className="sc-EHOje iafsfZ"
+>
+  <div
+    className="sc-bZQynM fymwvv"
+  >
+    History
+  </div>
+</div>
+`;

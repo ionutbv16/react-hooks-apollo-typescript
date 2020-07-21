@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Home Page should render Home without error 1`] = `
+<div
+  className="sc-EHOje bfoJug"
+>
+  <div
+    className="sc-bZQynM khFbRa"
+  >
+    Start the game by selecting one of the options bellow:
+  </div>
+  <div
+    className="sc-bZQynM khFbRa"
+  >
+    <div
+      className="sc-bdVaJa kgqLdc"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <div
+          className="sc-bwzfXH fdVHAP"
+        >
+          <a
+            href="/game/People"
+            onClick={[Function]}
+          >
+            <div
+              className="sc-ifAKCX bZbatV"
+            >
+              People
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bdVaJa kgqLdc"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <div
+          className="sc-bwzfXH fdVHAP"
+        >
+          <a
+            href="/game/Starships"
+            onClick={[Function]}
+          >
+            <div
+              className="sc-ifAKCX bZbatV"
+            >
+              Starships
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should render Home without error 1`] = `
+<div
+  className="sc-EHOje bfoJug"
+>
+  <div
+    className="sc-bZQynM khFbRa"
+  >
+    Start the game by selecting one of the options bellow:
+  </div>
+  <div
+    className="sc-bZQynM khFbRa"
+  >
+    <div
+      className="sc-bdVaJa kgqLdc"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <div
+          className="sc-bwzfXH fdVHAP"
+        >
+          <a
+            href="/game/People"
+            onClick={[Function]}
+          >
+            <div
+              className="sc-ifAKCX bZbatV"
+            >
+              People
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bdVaJa kgqLdc"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <div
+          className="sc-bwzfXH fdVHAP"
+        >
+          <a
+            href="/game/Starships"
+            onClick={[Function]}
+          >
+            <div
+              className="sc-ifAKCX bZbatV"
+            >
+              Starships
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
