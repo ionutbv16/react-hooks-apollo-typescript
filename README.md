@@ -13,6 +13,7 @@ Technologies used:
 	•	Function components with hooks
 	•	Apollo Client used for store data as well
 	•	Unit test with Jest
+	•	UI minimalistic design
 
 ## &nbsp; How to run the code
 
